@@ -45,8 +45,9 @@ public class ThreeSumProblem {
         return ans;
     }
 
-    public static void main(String[] args) {
-        int nums[] = { 4, 9, 8, 2, 6, 4 };
-    }
+    // public static void main(String[] args) {
+    // int nums[] = { 4, 9, 8, 2, 6, 4 };
+    // three
+    // }
 
 }
