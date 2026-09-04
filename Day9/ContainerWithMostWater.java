@@ -1,30 +1,43 @@
 package Array_pratices.Day9;
 
+import java.util.ArrayList;
+
 public class ContainerWithMostWater {
-    public static int maxArea(int[] height) {
-        int left = 0;
-        int right = height.length - 1;
-        int maxArea = 0;
+    public static int maxArea(ArrayList<Integer> height) {
+        int maxWater = 0;
 
-        while (left < right) {
-            int width = right - left;
-            int heights = Math.min(height[left], height[right]);
-            int area = width * heights;
+        int lp = 0;
+        int rp = height.size() - 1;
 
-            maxArea = Math.max(maxArea, area);
+        while (lp < rp) {
 
-            if (height[left] < height[right]) {
-                left++;
+            int hi = Math.min(height.get(lp), height.get(rp));
+            int wi = rp - lp;
+            int ans = hi * wi;
+
+            maxWater = Math.max(maxWater, ans);
+
+            if (height.get(lp) < height.get(rp)) {
+                lp++;
             } else {
-                right--;
+                rp--;
             }
         }
-
-        return maxArea;
+        return maxWater;
     }
 
     public static void main(String[] args) {
-        int height[] = { 5, 6, 2, 8, 4, 5, 2 };
-        maxArea(height);
+        ArrayList<Integer> height = new ArrayList<>();
+        height.add(1);
+        height.add(8);
+        height.add(2);
+        height.add(6);
+        height.add(5);
+        height.add(4);
+        height.add(8);
+        height.add(3);
+        height.add(7);
+
+        System.out.println("maximum height of this container is = " + maxArea(height));
     }
 }
