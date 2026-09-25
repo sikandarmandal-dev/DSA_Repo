@@ -15,6 +15,6 @@ public class FriendsPairProblem {
 
     public static void main(String args[]) {
         int n = 5;
-        System.out.println(FrindsPair(n));
+        System.out.println(FrindsPair(n));;
     }
 }
