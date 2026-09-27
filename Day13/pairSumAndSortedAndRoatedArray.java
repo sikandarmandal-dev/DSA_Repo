@@ -15,6 +15,6 @@ public class pairSumAndSortedAndRoatedArray {
     public static void main(String[] args) {
         int arr[] = { 5, 6, 2, 4, 1, 2, 3 };
         int target = 8;
-        System.out.println(pairInSortedRotated(arr, target));
+        System.out.println(pairInSortedRotated(arr, target);
     }
 }
