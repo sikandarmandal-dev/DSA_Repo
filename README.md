@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +38,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0143-reorder-list/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
