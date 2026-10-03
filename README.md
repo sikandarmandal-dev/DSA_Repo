@@ -48,6 +48,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
