@@ -24,6 +24,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
+| [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,8 +47,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
+| [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
