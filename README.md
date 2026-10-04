@@ -56,6 +56,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/1200-minimum-absolute-difference/) | Easy |
 ## Greedy
@@ -66,4 +67,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
