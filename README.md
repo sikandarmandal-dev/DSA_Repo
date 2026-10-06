@@ -25,6 +25,7 @@
 | [0143-reorder-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | [0148-sort-list](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0148-sort-list/) | Medium |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,10 +61,12 @@
 | [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0455-assign-cookies/) | Easy |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0322-coin-change/) | Medium |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/3218-minimum-cost-for-cutting-cake-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
