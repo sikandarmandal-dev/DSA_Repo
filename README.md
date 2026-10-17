@@ -97,6 +97,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -108,11 +109,13 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sikandarmandal-dev/DSA_Repo/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
